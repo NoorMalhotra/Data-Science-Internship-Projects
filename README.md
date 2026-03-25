@@ -6,7 +6,7 @@ This repository contains the projects I completed as part of my Data Science Int
 
 ---
 
-## 📌 Projects
+## Projects
 
 ### 1. Heart Failure Prediction
 
@@ -32,7 +32,7 @@ This repository contains the projects I completed as part of my Data Science Int
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Pandas, NumPy
@@ -41,7 +41,7 @@ This repository contains the projects I completed as part of my Data Science Int
 
 ---
 
-## 📈 Key Learnings
+## Key Learnings
 
 * Understanding of end-to-end machine learning workflows
 * Practical experience with data preprocessing and visualization
