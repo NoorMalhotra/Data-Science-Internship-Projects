@@ -63,6 +63,11 @@ This repository contains the projects I completed as part of my Data Science Int
 
 ---
 
+## 📜 Certifications
+- Data Science Internship – 1Stop.ai (Feb 2026 – Apr 2026)
+
+---
+
 ## 📎 Note
 
 These projects were completed as part of a guided internship and focus on implementation and understanding of core concepts.
